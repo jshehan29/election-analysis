@@ -1,14 +1,14 @@
-# Election Analysis
+# Election Audit
 
-## Overview of Project
+## Election Audit Overview
 
 This project used Python to assist the Colorado Board of Elections in auditing election results for a United States congressional district. Initially, code was developed to determine the number of votes and the percentage of total votes for the three candidates running in the election to verify the winner. Additional code was developed to investigate the voter turnout in each of the three counties making up the district to determine the county with the highest voter turnout.
 
-### Purpose
+### Election Audit Purpose
 
 The overall purpose of this project was to use Python to read data, perform analysis, and write output files in an effort to assist the Colorado Board of Elections in auditing the election results for a U.S. congressional district. Students built upon programming skills learned in the previous module and learned new syntax and methods specific to Python.
 
-## Results
+## Election Audit Results
 
 The first step in the analysis for this project was to add dependencies and initialize variables, lists, and dictionaries to be used throughout the analysis. Fig. 1 illustrates the Python code for this step.
 
@@ -59,7 +59,7 @@ A screenshot of the terminal output confirming the above conclusions is shown in
 ![Analysis 7](./Resources/Terminal_output.png)
 *Figure 7. Terminal output for election analysis Python code*
 
-## Summary
+## Election Audit Summary
 
 The script developed for this project determines vote counts and percentages, identifies the county with the highest voter turnout, and accurately determines the winner of the election based on the popular vote. While the script satisfies its intended purpose, it could be generalized and streamlined to work with any election providing greater utility to the Board of Elections.
 
