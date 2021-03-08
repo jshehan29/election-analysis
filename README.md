@@ -2,7 +2,7 @@
 
 ## Election Audit Overview
 
-This project used Python to assist the Colorado Board of Elections in auditing election results for a United States congressional district. Initially, code was developed to determine the number of votes and the percentage of total votes for the three candidates running in the election to verify the winner. Additional code was developed to investigate the voter turnout in each of the three counties making up the district to determine the county with the highest voter turnout. The Python script for this project was developed in Python 3.8.5 using Visual Studio Code.
+This project used Python to assist the Colorado Board of Elections in auditing election results for a United States congressional district. Initially, code was developed to determine the number of votes and the percentage of total votes for the three candidates running in the election to verify the winner. Additional code was developed to investigate the voter turnout in each of the three counties making up the district to determine the county with the highest voter turnout. The Python script for this project was developed in Python 3.8.8 using Visual Studio Code.
 
 ### Election Audit Purpose
 
