@@ -46,7 +46,7 @@ A summary of the findings from this analysis are listed below.
 - The breakdown of voter turnout for each county in this precinct is shown below.
     - Jefferson County had 10.5% of the total votes cast with 38,855 votes.
     - Denver County had 82.8% of the total votes cast with 306,055 votes.
-    - Arapahoe County had 6.7% of the votes cast with 24,801 votes.
+    - Arapahoe County had 6.7% of the total votes cast with 24,801 votes.
 - As indicated above, Denver county had the highest voter turnout in this election with 306,055 votes.
 - The breakdown of votes for each candidate in this election is shown below.
     - Charles Casper Stockham received 23.0% of the vote with 85,213 votes.
